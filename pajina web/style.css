@@ -1,0 +1,107 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    
+}
+.eslogan{
+    
+    color: blanchedalmond;
+    font-family: 'Pinyon Script', cursive;
+    font-size: 35px;
+
+}
+
+.cuerpo{
+    margin-top: 100px;
+}
+.titulo{
+    font-size: 100px;
+    font-family: 'Oswald', sans-serif;
+    color: blanchedalmond;
+}
+body{
+   background-image: url(img/ladrillo\ blanco.jpg);
+}
+.cabeza{
+   background-image: url(img/madera\ real.jpg);
+padding:10% 0 2% 0;
+margin: 0  10% 5px 10%;
+}
+.mision{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.parrafo{
+    font-size: 25px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 70px;
+}
+.completo{
+    background:white;
+    margin:0 5% 0 5% ;
+    padding: 70px;
+}
+.tipos{
+    font-size:  40px ;
+    margin-bottom: 20px;
+    
+
+}
+.trabajos li{
+    list-style:none;
+    font-size: 25px;
+    padding: 5px;
+}
+.todos{
+    background:#FFE5B4;
+    
+}
+.contactanos{
+    font-size: 60px;
+    margin-top: 60px;
+    color:red;
+
+}
+
+  footer{
+      background: rgb(65, 64, 64);
+      padding: 60px;
+      color: white;
+      text-align: left;
+      display: flex;
+      margin: 0% 1% 0% 1%;
+    
+  }
+.info h1{
+    font-size: 40;
+
+}
+.info h2{
+    font-size: 15px;
+ 
+    color: rgb(160, 159, 159);
+    
+}
+.contat{
+    text-align: right;
+    margin-left: 500px;
+    
+}
+img{
+    width: 40px ;
+    margin-top: ;
+}
+
+
+
+.info{
+    
+    width: 20%;
+    margin-left: 100px;
+}
